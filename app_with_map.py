@@ -114,9 +114,6 @@ with st.sidebar:
             selected_cities = st.multiselect("Select Cities", options=city_list, default=city_list)
             df = df[df['city'].isin(selected_cities)]
 
-# -------------------------------
-# Dashboard Body
-# -------------------------------
 
 st.markdown("<h2 class='dashboard-header'>🚦 Traffic Accident Dashboard</h2>", unsafe_allow_html=True)
 
