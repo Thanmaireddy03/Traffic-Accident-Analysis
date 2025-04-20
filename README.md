@@ -1,9 +1,8 @@
 # Traffic-Accident-Analysis
 
+## Deployment Link
 
- ## Deployment link   
- 
-https://traffic-accident-analysis.streamlit.app/  
+ [https://traffic-accident-analysis.streamlit.app/](https://traffic-accident-analysis.streamlit.app/)  
  
  
  ## Local Setup Instructions
